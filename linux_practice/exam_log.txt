@@ -1,0 +1,33 @@
+    1  mkdir linux_practice
+    2  cd linux_practice
+    3  touch notes.txt
+    4  ls>>notes.txt
+    5  cat notes.txt
+    6  echo "Hello, Linux!">notes.txt
+    7  echo "This is a practical exam." >>notes.txt
+    8  head -n 1 notes.txt
+    9  tail -n 1notes.txt
+   10  tail -n notes.txt
+   11  tail -n 1 noted.txt
+   12  tail -n 1 notes.txt
+   13  mkdir subdir
+   14  mv notes.txt subdir/
+   15  mv subdir practice_subdir
+   16  cp practice_subdir/notes.txt
+   17  cp practice_subdir/notes.txt .
+   18  date
+   19  time
+   20  uptime
+   21  du -sh ~
+   22  ssh -v
+   23  php -v
+   24  pkg install php
+   25  MySQL -v
+   26  mysql --v
+   27  apachet1 -v
+   28  apachect1 -v
+   29  python --version
+   30  java -version
+   31  gh repo clone https://github.com/Maven-afk/233426391.git
+   32  git checkout -b finalexam
+   33  history > exam_log.txt
