@@ -1,0 +1,6 @@
+    1  cd 233426391-LICADANG
+    2  remote -v
+    3  git fetch
+    4  git log
+    5  git checkout -b finalexam
+    6  history >exam_log.txt
